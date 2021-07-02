@@ -28,3 +28,5 @@ python attack.py
 to execute this code, or you can just use ctrl + shift + F10 in pycharm or other IDEs.
 
 Sorry for my poor English, if you have any question, please tell me and I will reply to you as soon as possible.
+
+[1]Vaccari, Ivan & Aiello, Maurizio & Cambiaso, Enrico. (2020). SlowTT: A Slow Denial of Service against IoT Networks. Information (Switzerland). 11. 10.3390/info11090452. 
